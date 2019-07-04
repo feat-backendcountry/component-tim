@@ -3,17 +3,19 @@ mongoose.connect('mongodb://localhost/backcountry');
 
 var fecSchema = new mongoose.Schema({
 
-  item: {
-    id: Number,
-    name: String,
-    priceRange: String,
-    itemType: String,
-    imageURL: String,
-    sizesUS: String,
-    price: Number,
-    color: String,
-    detailImages: [String]
-  }
+  id: Number,
+  name: String,
+  priceRange: String,
+  itemType: String,
+  imageURL: String,
+  sizes: [String],
+  price: String,
+  prevPrice: String,
+  sale: String,
+  color: String,
+  detailImages: [String]
+
+
 });
 
 const fecModel = mongoose.model('items', fecSchema);
