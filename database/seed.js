@@ -1,3 +1,5 @@
+const mongoose = require('mongoose');
+const Items = require('./index.js');
 // Pants: 1 - 7
 // Jackets: 8 - 20
 // Shirts: 21 - 28
@@ -1085,4 +1087,16 @@ var seedItems = [
   }
 
 ];
+
+// seed into database
+const seedFunction = () => {
+  Items.create(seedItems)
+  .then( () => {
+    console.log('database seeded!');
+    mongoose.connection.close();
+  })
+  .catch( (err) => console.error(err))
+};
+
+seedFunction();
 

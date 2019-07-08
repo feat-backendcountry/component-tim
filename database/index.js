@@ -15,9 +15,8 @@ var fecSchema = new mongoose.Schema({
   color: String,
   detailImages: [String]
 
-
 });
 
-const fecModel = mongoose.model('items', fecSchema);
+const Items = mongoose.model('items', fecSchema);
 
-module.exports = fecModel;
+module.exports = Items;
