@@ -13,76 +13,76 @@ var detailImages = {
   // first image is always the image URL!
 
   pants: [ // 6
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D1.jpg',
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D1.jpg',
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D3.jpg',
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D2.jpg',
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D3.jpg',
-    'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D2.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_52.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_53.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_54.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_55.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_56.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_57.jpg'
   ],
 
   jackets: [ // 13
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNDAGRHEDAGRHEA_D3.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URNVHEGR_D2.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/FOLECLTL_D5.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/CARKHANV_D2.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URBNAVOR_D5.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/CARKHANV_D5.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URBNAVOR_D3.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLUBK_D1.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/NETPGRBK_D3.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/SHABLUBL_D3.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLABK_D4.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/SHABLUBL_D5.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URNVHEGR_D5.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_58.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_59.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_60.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_61.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_62.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_63.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_64.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_65.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_66.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_67.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_68.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_69.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_70.jpg'
   ],
 
   shirts: [ // 2
-    'https://content.backcountry.com/images/items/900/TNF/TNF000Y/FIEREDWH_D2.jpg',
-    'https://content.backcountry.com/images/items/900/TNF/TNF000Y/FIEREDWH_D1.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_71.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_72.jpg'
   ],
 
   vests: [ // 13
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/LTVIBL_D2.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D6.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/PEL_D2.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BK_D2.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/PEL_D6.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D7.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BK_D3.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/LTVIBL_D3.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/ATOBL_D2.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D9.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D8.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/CLANV_D3.jpg',
-    'https://content.backcountry.com/images/items/900/PAT/PAT010X/CLANV_D2.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_73.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_74.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_75.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_76.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_77.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_78.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_79.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_80.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_81.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_82.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_83.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_84.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_85.jpg',
   ],
 
   shoes: [ // 7
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/TRBECHGR_D1.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/BLAGRE_D2.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D1.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D2.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/BLAGRE_D1.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D3.jpg',
-    'https://content.backcountry.com/images/items/900/NKE/NKE01N4/EMGLPIGR_D1.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_86.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_87.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_88.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_89.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_90.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_91.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_92.jpg',
   ],
 
   sandals: [ // 6
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/SNBIR_D1.jpg',
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/ANLABIFL_D1.jpg',
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/GOBNBIFL_D1.jpg',
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/LICBIRFLO_D1.jpg',
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/BKBIRFLO_D1.jpg',
-    'https://content.backcountry.com/images/items/900/BRK/BRK002X/MCBIR_D1.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_93.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_94.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_95.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_96.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_97.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_98.jpg',
   ],
 
   shorts: [ // 5
-    'https://content.backcountry.com/images/items/900/PRA/PRA01JT/DARKH_D2.jpg',
-    'https://content.backcountry.com/images/items/900/PRA/PRA01JT/MUD_D1.jpg',
-    'https://content.backcountry.com/images/items/900/PRA/PRA01JT/BRO_D1.jpg',
-    'https://content.backcountry.com/images/items/900/PRA/PRA01JT/CH_D3.jpg',
-    'https://content.backcountry.com/images/items/900/PRA/PRA01JT/BRO_D2.jpg'
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_99.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_100.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_101.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_102.jpg',
+    'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_103.jpg',
   ]
 };
 
