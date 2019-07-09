@@ -95,7 +95,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_1.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54', 'US 38-39/EU 56', 'US 40/EU 58'],
     price: 149.95,
     color: 'Dusk',
@@ -106,7 +106,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DARSANOV.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_2.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54'],
     price: 149.95,
     color: 'Dark Sand/Dark Olive',
@@ -117,7 +117,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/LAUGREFO.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_3.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54', 'US 38-39/EU 56'],
     price: 149.95,
     color: 'Laurel Green/Deep Forest',
@@ -128,7 +128,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_4.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54', 'US 38-39/EU 56', 'US 40/EU 58'],
     price: 149.95,
     color: 'Dark Olive',
@@ -139,7 +139,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DARGREA.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_5.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54', 'US 38-39/EU 56', 'US 40/EU 58'],
     price: 149.95,
     color: 'Dark Grey',
@@ -150,7 +150,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/BK.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_6.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 32/EU 48', 'US 33-34/EU 50', 'US 36/EU 52', 'US 37/EU 54', 'US 38-39/EU 56', 'US 40/EU 58'],
     price: 149.95,
     color: 'Black/Black',
@@ -161,7 +161,7 @@ var seedItems = [
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
     priceRange: 'sale $109.98 - $149.95',
     itemType: 'pants',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROV.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/pants_7.jpg',
     sizes: ['US 29/EU 44', 'US 30-31/EU 46', 'US 37/EU 54'],
     price: '$109.98',
     prevPrice: '$149.95',
@@ -177,12 +177,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/NETPGRBK.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_8.jpg',
     sizes: ['S', 'XL', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'New Taupe Green/Tnf Black',
+    color: 'New Taupe Green/Tnf Black/Tnf White',
     detailImages: detailImages.jackets
   },
   {
@@ -190,10 +190,10 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLABK.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_9.jpg',
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$98.95',
-    color: 'Tnf Black/Tnf Black',
+    color: 'Mid Grey/Mid Grey',
     detailImages: detailImages.jackets
   },
   {
@@ -201,7 +201,7 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/ZINORAGRE.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_10.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     price: '$69.26',
     prevPrice: '$98.95',
@@ -214,12 +214,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URNVHEGR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_11.jpg',
     sizes: ['L', 'XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Urban Navy Heather/Mid Grey',
+    color: 'Urban Navy/Zion Orange',
     detailImages: detailImages.jackets
   },
   {
@@ -227,12 +227,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNDAGRHEDAGRHEA.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_12.jpg',
     sizes: ['S', 'M', 'L', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Tnf Dark Grey Heather/Mid Grey',
+    color: 'Urban Navy Heather/Mid Grey',
     detailImages: detailImages.jackets
   },
   {
@@ -240,12 +240,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/SHABLUBL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_13.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Shady Blue/Shady Blue',
+    color: 'Tnf Dark Grey Heather/Tnf Dark Grey Heather/Mid Grey',
     detailImages: detailImages.jackets
   },
   {
@@ -253,12 +253,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/HERBL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_14.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Heron Blue',
+    color: 'Shady Blue/Shady Blue',
     detailImages: detailImages.jackets
   },
   {
@@ -266,12 +266,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/FOLECLTL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_15.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Four Leaf Clover/Crystal Teal',
+    color: 'New Taupe Green/Tnf Black',
     detailImages: detailImages.jackets
   },
   {
@@ -279,12 +279,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/FIEREDGRE.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_16.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Fiery Red/Asphalt Grey',
+    color: 'Mid Grey Ripstop Heather/Mid Grey Ripstop Heather',
     detailImages: detailImages.jackets
   },
   {
@@ -292,12 +292,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/CARKHANV.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_17.jpg',
     sizes: ['XL', 'XXL', '3XL'],
     price: '$69.26',
     prevPrice: '$98.95',
     sale: '30% OFF',
-    color: 'Cargo Khaki/Urban Navy',
+    color: 'Heron Blue',
     detailImages: detailImages.jackets
   },
   {
@@ -305,12 +305,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLUBK.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_18.jpg',
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$89.21',
     prevPrice: '$118.95',
     sale: '25% OFF',
-    color: 'Tnf Blue/Tnf Black',
+    color: 'Four Leaf Clover/Crystal Teal',
     detailImages: detailImages.jackets
   },
   {
@@ -318,12 +318,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/NETPGRBLWH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_19.jpg',
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$89.21',
     prevPrice: '$118.95',
     sale: '25% OFF',
-    color: 'New Taupe Green/Tnf Black/Tnf White',
+    color: 'Fiery Red/Asphalt Grey',
     detailImages: detailImages.jackets
   },
   {
@@ -331,12 +331,12 @@ var seedItems = [
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
     priceRange: 'sale $69.26 - $118.95',
     itemType: 'jackets',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/MIDGREGRE.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/jacket_20.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     price: '$89.21',
     prevPrice: '$118.95',
     sale: '25% OFF',
-    color: 'Mid Grey/Mid Grey',
+    color: 'Cargo Khaki/Urban Navy',
     detailImages: detailImages.jackets
   },
 
@@ -347,7 +347,7 @@ var seedItems = [
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/CITYELWH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_21.jpg',
     sizes: ['M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -360,33 +360,7 @@ var seedItems = [
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'hhttps://content.backcountry.com/images/items/900/TNF/TNF000Y/AZTBLUWH.jpg',
-    sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
-    price: '$17.46',
-    prevPrice: '$24.95',
-    sale: '30% OFF',
-    color: 'Aztec Blue/Tnf White',
-    detailImages: detailImages.shirts
-  },
-  {
-    id: 22,
-    name: 'The North Face Half Dome T-Shirt - Men\'s',
-    priceRange: 'sale $17.46 - $34.95',
-    itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/TNFBLAYL.jpg',
-    sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
-    price: '$17.46',
-    prevPrice: '$24.95',
-    sale: '30% OFF',
-    color: 'Tnf Black/Citrine Yellow',
-    detailImages: detailImages.shirts
-  },
-  {
-    id: 23,
-    name: 'The North Face Half Dome T-Shirt - Men\'s',
-    priceRange: 'sale $17.46 - $34.95',
-    itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/URBNAVBL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_22.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -395,11 +369,11 @@ var seedItems = [
     detailImages: detailImages.shirts
   },
   {
-    id: 24,
+    id: 23,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/TNWHKHWOCMDEPR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_23.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -408,11 +382,11 @@ var seedItems = [
     detailImages: detailImages.shirts
   },
   {
-    id: 25,
+    id: 24,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/TNLTGRHEBKPSPR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_24.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -421,11 +395,11 @@ var seedItems = [
     detailImages: detailImages.shirts
   },
   {
-    id: 26,
+    id: 25,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/TNFBLAWH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_25.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -434,11 +408,24 @@ var seedItems = [
     detailImages: detailImages.shirts
   },
   {
+    id: 26,
+    name: 'The North Face Half Dome T-Shirt - Men\'s',
+    priceRange: 'sale $17.46 - $34.95',
+    itemType: 'shirts',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_26.jpg',
+    sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
+    price: '$17.46',
+    prevPrice: '$24.95',
+    sale: '30% OFF',
+    color: 'Tnf Black/Citrine Yellow',
+    detailImages: detailImages.shirts
+  },
+  {
     id: 27,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/GAGRBKPSPR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_27.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -451,7 +438,7 @@ var seedItems = [
     name: 'The North Face Half Dome T-Shirt - Men\'s',
     priceRange: 'sale $17.46 - $34.95',
     itemType: 'shirts',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/FIEREDWH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_28.jpg',
     sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
     price: '$17.46',
     prevPrice: '$24.95',
@@ -459,15 +446,28 @@ var seedItems = [
     color: 'Fiery Red/Tnf White',
     detailImages: detailImages.shirts
   },
+  {
+    id: 29,
+    name: 'The North Face Half Dome T-Shirt - Men\'s',
+    priceRange: 'sale $17.46 - $34.95',
+    itemType: 'shirts',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shirt_29.jpg',
+    sizes: ['S', 'M', 'L', 'XL', 'XXL', '3XL'],
+    price: '$17.46',
+    prevPrice: '$24.95',
+    sale: '30% OFF',
+    color: 'Aztec Blue/Tnf White',
+    detailImages: detailImages.shirts
+  },
 
   // VEST
   // VEST
   {
-    id: 29,
+    id: 30,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/PEL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_30.jpg',
     sizes: ['XS', 'S', 'M'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -476,11 +476,11 @@ var seedItems = [
     detailImages: detailImages.vests
   },
   {
-    id: 30,
+    id: 31,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_31.jpg',
     sizes: ['XXS', 'XS', 'S', 'M', 'L', 'XL'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -489,11 +489,11 @@ var seedItems = [
     detailImages: detailImages.vests
   },
   {
-    id: 31,
+    id: 32,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/LTVIBL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_32.jpg',
     sizes: ['S', 'M'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -502,11 +502,11 @@ var seedItems = [
     detailImages: detailImages.vests
   },
   {
-    id: 32,
+    id: 33,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/CLANV.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_33.jpg',
     sizes: ['XXS', 'XS', 'S', 'M', 'XL'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -515,11 +515,11 @@ var seedItems = [
     detailImages: detailImages.vests
   },
   {
-    id: 33,
+    id: 34,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BK.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_34.jpg',
     sizes: ['XXS', 'XS', 'S', 'M', 'XL'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -528,11 +528,11 @@ var seedItems = [
     detailImages: detailImages.vests
   },
   {
-    id: 34,
+    id: 35,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
     priceRange: 'sale $69.30 - $99.00',
     itemType: 'vests',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/ATOBL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/vest_35.jpg',
     sizes: ['XXS'],
     price: '$69.30',
     prevPrice: '$99.00',
@@ -544,11 +544,11 @@ var seedItems = [
   // SHOES
   // SHOES
   {
-    id: 35,
+    id: 36,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
     priceRange: 'sale $89.96 - $119.95',
     itemType: 'shoes',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/BLAGRE.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shoes_36.jpg',
     sizes: ['6.0', '6.5', '7.0', '8.0', '8.5', '9.0', '9.5', '11.0'],
     price: '$89.96',
     prevPrice: '$119.95',
@@ -557,11 +557,11 @@ var seedItems = [
     detailImages: detailImages.shoes
   },
   {
-    id: 36,
+    id: 37,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
     priceRange: 'sale $89.96 - $119.95',
     itemType: 'shoes',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/ALU.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shoes_37.jpg',
     sizes: ['6.5', '11.0'],
     price: '$89.96',
     prevPrice: '$119.95',
@@ -570,11 +570,11 @@ var seedItems = [
     detailImages: detailImages.shoes
   },
   {
-    id: 37,
+    id: 38,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
     priceRange: 'sale $89.96 - $119.95',
     itemType: 'shoes',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shoes_38.jpg',
     sizes: ['6.0', '6.5', '7.0', '7.5', '8.5', '9.0', '9.5', '11.0'],
     price: '$89.96',
     prevPrice: '$119.95',
@@ -583,11 +583,11 @@ var seedItems = [
     detailImages: detailImages.shoes
   },
   {
-    id: 38,
+    id: 39,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
     priceRange: 'sale $89.96 - $119.95',
     itemType: 'shoes',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/EMGLPIGR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shoes_39.jpg',
     sizes: ['6.5', '7.5', '8.0', '9.0', '9.5', '10.0', '11.0'],
     price: '$89.96',
     prevPrice: '$119.95',
@@ -596,11 +596,11 @@ var seedItems = [
     detailImages: detailImages.shoes
   },
   {
-    id: 39,
+    id: 40,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
     priceRange: 'sale $89.96 - $119.95',
     itemType: 'shoes',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/TRBECHGR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shoes_40.jpg',
     sizes: ['6.0', '6.5', '8.0', '8.5', '9.0', '9.5', '10.0'],
     price: '$89.96',
     prevPrice: '$119.95',
@@ -612,11 +612,11 @@ var seedItems = [
   // SANDALS
   // SANDALS
   {
-    id: 40,
+    id: 41,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/SNBIR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_41.jpg',
     sizes: ['36.0', '37.0', '38.0', '39.0', '40.0', '41.0', '42.0'],
     price: '$100.00',
     prevPrice: '',
@@ -625,11 +625,11 @@ var seedItems = [
     detailImages: detailImages.sandals
   },
   {
-    id: 41,
+    id: 42,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/SNBIR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_42.jpg',
     sizes: ['38.0'],
     price: '$100.00',
     prevPrice: '',
@@ -638,11 +638,11 @@ var seedItems = [
     detailImages: detailImages.sandals
   },
   {
-    id: 42,
+    id: 43,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/MCBIR.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_43.jpg',
     sizes: ['36.0', '37.0', '38.0', '39.0', '40.0', '41.0', '42.0'],
     price: '$100.00',
     prevPrice: '',
@@ -651,11 +651,11 @@ var seedItems = [
     detailImages: detailImages.sandals
   },
   {
-    id: 43,
+    id: 44,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/LICBIRFLO.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_44.jpg',
     sizes: ['36.0', '37.0', '38.0', '39.0'],
     price: '$100.00',
     prevPrice: '',
@@ -664,11 +664,11 @@ var seedItems = [
     detailImages: detailImages.sandals
   },
   {
-    id: 44,
+    id: 45,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/GOBNBIFL.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_45.jpg',
     sizes: ['36.0', '37.0', '38.0', '39.0', '40.0', '41.0', '42.0'],
     price: '$100.00',
     prevPrice: '',
@@ -677,11 +677,11 @@ var seedItems = [
     detailImages: detailImages.sandals
   },
   {
-    id: 45,
+    id: 46,
     name: 'Birkenstock Mayari Sandal - Women\'s',
     priceRange: '$100.00',
     itemType: 'sandals',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/BKBIRFLO.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/sandals_46.jpg',
     sizes: ['36.0', '37.0', '38.0', '39.0', '40.0', '41.0', '42.0'],
     price: '$100.00',
     prevPrice: '',
@@ -693,11 +693,11 @@ var seedItems = [
   // SHORTS
   // SHORTS
   {
-    id: 46,
+    id: 47,
     name: 'Prana Stretch Zion Short - Men\'s',
     priceRange: 'sale $51.71 - $68.95',
     itemType: 'shorts',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/BRO.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shorts_47.jpg',
     sizes: ['28x10', '30x10', '30x12', '31x10', '31x12', '32x10', '32x12', '33x10', '33x12', '34x10', '34x12', '35x10', '35x12', '36x10', '36x12', '38x10', '38x12', '40x10', '40x12'],
     price: '$68.95',
     prevPrice: '',
@@ -706,11 +706,11 @@ var seedItems = [
     detailImages: detailImages.shorts
   },
   {
-    id: 47,
+    id: 48,
     name: 'Prana Stretch Zion Short - Men\'s',
     priceRange: 'sale $51.71 - $68.95',
     itemType: 'shorts',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/CH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shorts_48.jpg',
     sizes: ['31x10', '31x12', '32x10', '33x10', '34x10', '35x10', '36x10', '38x10', '38x12'],
     price: '$68.95',
     prevPrice: '',
@@ -719,11 +719,11 @@ var seedItems = [
     detailImages: detailImages.shorts
   },
   {
-    id: 48,
+    id: 49,
     name: 'Prana Stretch Zion Short - Men\'s',
     priceRange: 'sale $51.71 - $68.95',
     itemType: 'shorts',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/DARKH.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shorts_49.jpg',
     sizes: ['28x10', '30x10', '31x10', '31x12', '32x10', '33x10', '33x12', '35x10', '35x12', '36x10', '38x10', '40x10', '40x12'],
     price: '$51.96',
     prevPrice: '$68.95',
@@ -732,11 +732,11 @@ var seedItems = [
     detailImages: detailImages.shorts
   },
   {
-    id: 49,
+    id: 50,
     name: 'Prana Stretch Zion Short - Men\'s',
     priceRange: 'sale $51.71 - $68.95',
     itemType: 'shorts',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/MUD.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shorts_50.jpg',
     sizes: ['28x10', '30x12', '31x10', '31x12', '33x10', '33x12', '34x10', '35x12', '36x12', '38x10', '40x10', '40x12'],
     price: '$51.96',
     prevPrice: '$68.95',
@@ -745,11 +745,11 @@ var seedItems = [
     detailImages: detailImages.shorts
   },
   {
-    id: 50,
+    id: 51,
     name: 'Prana Stretch Zion Short - Men\'s',
     priceRange: 'sale $51.71 - $68.95',
     itemType: 'shorts',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/NORGN.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/shorts_51.jpg',
     sizes: ['28x10', '30x10', '30x12', '31x10', '31x12', '32x10', '33x12', '34x10', '34x12', '35x10', '35x12', '36x10', '36x12', '38x10', '38x12', '40x10', '40x12'],
     price: '$68.95',
     prevPrice: '',
@@ -762,327 +762,327 @@ var seedItems = [
   // DETAILED IMAGES
   // PANTS
   {
-    id: 51,
-    name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D1.jpg',
-    itemType: 'pants'
-  },
-  {
     id: 52,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_52.jpg',
     itemType: 'pants'
   },
   {
     id: 53,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_53.jpg',
     itemType: 'pants'
   },
   {
     id: 54,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_54.jpg',
     itemType: 'pants'
   },
   {
     id: 55,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DUS_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_55.jpg',
     itemType: 'pants'
   },
   {
     id: 56,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/FJR/FJR00EP/DAROLI_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_56.jpg',
+    itemType: 'pants'
+  },
+  {
+    id: 57,
+    name: 'Fjallraven Vidda Pro Trouser - Men\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_57.jpg',
     itemType: 'pants'
   },
 
   // JACKETS
   {
-    id: 57,
-    name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNDAGRHEDAGRHEA_D3.jpg',
-    itemType: 'jackets'
-  },
-  {
     id: 58,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URNVHEGR_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_58.jpg',
     itemType: 'jackets'
   },
   {
     id: 59,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/FOLECLTL_D5.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_59.jpg',
     itemType: 'jackets'
   },
   {
     id: 60,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/CARKHANV_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_60.jpg',
     itemType: 'jackets'
   },
   {
     id: 61,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URBNAVOR_D5.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_61.jpg',
     itemType: 'jackets'
   },
   {
     id: 62,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/CARKHANV_D5.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_62.jpg',
     itemType: 'jackets'
   },
   {
     id: 63,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URBNAVOR_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_63.jpg',
     itemType: 'jackets'
   },
   {
     id: 64,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLUBK_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_64.jpg',
     itemType: 'jackets'
   },
   {
     id: 65,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/NETPGRBK_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_65.jpg',
     itemType: 'jackets'
   },
   {
     id: 66,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/SHABLUBL_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_66.jpg',
     itemType: 'jackets'
   },
   {
     id: 67,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/TNFBLABK_D4.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_67.jpg',
     itemType: 'jackets'
   },
   {
     id: 68,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/SHABLUBL_D5.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_68.jpg',
     itemType: 'jackets'
   },
   {
     id: 69,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF02ZY/URNVHEGR_D5.jpg'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_69.jpg',
+    itemType: 'jackets'
+  },
+  {
+    id: 70,
+    name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_70.jpg',
     itemType: 'jackets'
   },
 
   // SHIRTS
   {
-    id: 70,
+    id: 71,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/FIEREDWH_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_71.jpg',
     itemType: 'shirts'
   },
   {
-    id: 71,
+    id: 72,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/TNF/TNF000Y/FIEREDWH_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_72.jpg',
     itemType: 'shirts'
   },
 
   // VESTS
   {
-    id: 72,
-    name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/LTVIBL_D2.jpg',
-    itemType: 'vests'
-  },
-  {
     id: 73,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D6.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_73.jpg',
     itemType: 'vests'
   },
   {
     id: 74,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/PEL_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_74.jpg',
     itemType: 'vests'
   },
   {
     id: 75,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BK_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_75.jpg',
     itemType: 'vests'
   },
   {
     id: 76,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/PEL_D6.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_76.jpg',
     itemType: 'vests'
   },
   {
     id: 77,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D7.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_77.jpg',
     itemType: 'vests'
   },
   {
     id: 78,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BK_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_78.jpg',
     itemType: 'vests'
   },
   {
     id: 79,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/LTVIBL_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_79.jpg',
     itemType: 'vests'
   },
   {
     id: 80,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/ATOBL_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_80.jpg',
     itemType: 'vests'
   },
   {
     id: 81,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D9.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_81.jpg',
     itemType: 'vests'
   },
   {
     id: 82,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/BIRWH_D8.jpg',
-    itemType: 'vests'
-  },
-  {
-    id: 82,
-    name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/CLANV_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_82.jpg',
     itemType: 'vests'
   },
   {
     id: 83,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PAT/PAT010X/CLANV_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_83.jpg',
+    itemType: 'vests'
+  },
+  {
+    id: 84,
+    name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_84.jpg',
+    itemType: 'vests'
+  },
+  {
+    id: 85,
+    name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_85.jpg',
     itemType: 'vests'
   },
 
   // SHOES
   {
-    id: 84,
-    name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/TRBECHGR_D1.jpg',
-    itemType: 'shoes'
-  },
-  {
-    id: 85,
-    name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/BLAGRE_D2.jpg',
-    itemType: 'shoes'
-  },
-  {
     id: 86,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_86.jpg',
     itemType: 'shoes'
   },
   {
     id: 87,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_87.jpg',
     itemType: 'shoes'
   },
   {
     id: 88,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/BLAGRE_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_88.jpg',
     itemType: 'shoes'
   },
   {
     id: 89,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/HALBLUPIN_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_89.jpg',
     itemType: 'shoes'
   },
   {
     id: 90,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/NKE/NKE01N4/EMGLPIGR_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_90.jpg',
+    itemType: 'shoes'
+  },
+  {
+    id: 91,
+    name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_91.jpg',
+    itemType: 'shoes'
+  },
+  {
+    id: 92,
+    name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_92.jpg',
     itemType: 'shoes'
   },
 
   // SANDALS
   {
-    id: 91,
-    name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/SNBIR_D1.jpg',
-    itemType: 'sandals'
-  },
-  {
-    id: 92,
-    name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/ANLABIFL_D1.jpg',
-    itemType: 'sandals'
-  },
-  {
     id: 93,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/GOBNBIFL_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_93.jpg',
     itemType: 'sandals'
   },
   {
     id: 94,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/LICBIRFLO_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_94.jpg',
     itemType: 'sandals'
   },
   {
     id: 95,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/BKBIRFLO_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_95.jpg',
     itemType: 'sandals'
   },
   {
     id: 96,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/BRK/BRK002X/MCBIR_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_96.jpg',
+    itemType: 'sandals'
+  },
+  {
+    id: 97,
+    name: 'Birkenstock Mayari Sandal - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_97.jpg',
+    itemType: 'sandals'
+  },
+  {
+    id: 98,
+    name: 'Birkenstock Mayari Sandal - Women\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_98.jpg',
     itemType: 'sandals'
   },
 
   // SHORTS
   {
-    id: 97,
-    name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/DARKH_D2.jpg',
-    itemType: 'shorts'
-  },
-  {
-    id: 98,
-    name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/MUD_D1.jpg',
-    itemType: 'shorts'
-  },
-  {
     id: 99,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/BRO_D1.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_99.jpg',
     itemType: 'shorts'
   },
   {
     id: 100,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/CH_D3.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_100.jpg',
     itemType: 'shorts'
   },
   {
     id: 101,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://content.backcountry.com/images/items/900/PRA/PRA01JT/BRO_D2.jpg',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_101.jpg',
+    itemType: 'shorts'
+  },
+  {
+    id: 102,
+    name: 'Prana Stretch Zion Short - Men\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_102.jpg',
+    itemType: 'shorts'
+  },
+  {
+    id: 103,
+    name: 'Prana Stretch Zion Short - Men\'s',
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_103.jpg',
     itemType: 'shorts'
   }
 

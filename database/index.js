@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/backcountry');
+mongoose.connect('mongodb://localhost/backcountry', { useNewUrlParser: true });
 
 var fecSchema = new mongoose.Schema({
 
