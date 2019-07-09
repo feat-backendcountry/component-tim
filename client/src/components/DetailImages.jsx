@@ -13,10 +13,12 @@ class DetailImages extends React.Component {
   }
 
   render() {
-    this.props.
     return (
-      <div>
-        hi
+      <div className="detail-images">
+        <img className="detail-image" src={this.props.items[0].imageURL} />
+        {this.props.items[0].detailImages.map( (detailImage, key) => {
+          return <img className="detail-image" src={detailImage} key={key}/>
+        })}
       </div>
     )
   }

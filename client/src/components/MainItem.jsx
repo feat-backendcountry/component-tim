@@ -9,10 +9,9 @@ class MainItem extends React.Component {
   }
 
   render() {
-    // console.log(this.props.)
     return (
-      <div>
-        <img src={this.props.mainImage} alt="Main Image Rendering"/>
+      <div className="main-item">
+        <img className="main-item-photo" src={this.props.mainImage} alt="Main Image Rendering"/>
       </div>
     )
   }

@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import Carousel from './Carousel.jsx';
 import MainItem from './MainItem.jsx';
-import InfoSection from './InfoSection.jsx';
+import InfoArea from './InfoArea.jsx';
 import DetailImages from './DetailImages.jsx';
 
 class App extends React.Component {
@@ -19,10 +19,6 @@ class App extends React.Component {
     this.getItems();
   }
 
-  getSingleItem() {
-
-  }
-
   getItems() {
     axios
       .all([axios.get(`/api/itemType?itemType=${this.state.itemType}`)])
@@ -36,13 +32,6 @@ class App extends React.Component {
         console.error('error getting items', err)
       })
   }
-  // .then( ({data}) => {
-      //   console.log('data', data);
-      //   const items = data;
-      //   this.setState({
-      //     items
-      //   });
-      // })
 
   render() {
     console.log('yo',this.state.items);
@@ -55,19 +44,19 @@ class App extends React.Component {
     } else {
       return (
         <div>
-          <div id="back-to-results">
+          <div className="back-to-results">
             Back to results / Men's clothing > Men's Pants > Men's Hiking & Climbing Pants
           </div>
-          <div id="detail-images">
-            <DetailImages images={this.state.items} />
+          <div className="detail-images-section">
+            <DetailImages items={this.state.items} />
           </div>
-          <div id="main-item">
+          <div className="main-item-section">
             <MainItem mainImage={this.state.items[0].imageURL} />
           </div>
-          <div id="info-section">
-            <InfoSection items={this.state.items} />
+          <div className="info-area-section">
+            <InfoArea items={this.state.items} />
           </div>
-          <div id="carousel">
+          <div className="carousel-section">
             <Carousel items={this.state.items} />
           </div>
 
