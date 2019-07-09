@@ -8,7 +8,7 @@ const Items = require('../database/index.js');
 app.use(parser.urlencoded({ extended: true }));
 app.use(morgan('dev'));
 app.use(parser.json());
-// app.use(express.static(path.join(__dirname,'../client/dist')));
+app.use(express.static(path.join(__dirname,'../client/dist')));
 
 app.get('/api/items', (req, res) => {
   Items
@@ -20,6 +20,19 @@ app.get('/api/items', (req, res) => {
       res.status(404).send(err);
     });
 });
+
+app.get('/api/items/:id', (req, res) => {
+  const { id } = req.params;
+  Items
+    .find({id})
+    .then( (data) => {
+      res.status(200).send(data);
+    })
+    .catch( (err) => {
+      res.status(404).send(err);
+    });
+});
+
 
 app.delete('/api/items', (req, res) => {
   const {itemType} = req.query;
