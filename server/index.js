@@ -33,6 +33,18 @@ app.get('/api/items/:id', (req, res) => {
     });
 });
 
+app.get('/api/itemType', (req, res) => {
+  const { itemType } = req.query;
+  Items
+    .find({itemType})
+    .then( (data) => {
+      res.status(200).send(data.sort( (a,b) => {return a.id - b.id}))
+    })
+    .catch( (err) => {
+      res.status(404).send(err);
+    });
+});
+
 
 app.delete('/api/items', (req, res) => {
   const {itemType} = req.query;

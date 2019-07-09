@@ -764,326 +764,326 @@ var seedItems = [
   {
     id: 52,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_52.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_52.jpg'
+    // itemType: 'pants'
   },
   {
     id: 53,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_53.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_53.jpg'
+    // itemType: 'pants'
   },
   {
     id: 54,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_54.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_54.jpg'
+    // itemType: 'pants'
   },
   {
     id: 55,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_55.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_55.jpg'
+    // itemType: 'pants'
   },
   {
     id: 56,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_56.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_56.jpg'
+    // itemType: 'pants'
   },
   {
     id: 57,
     name: 'Fjallraven Vidda Pro Trouser - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_57.jpg',
-    itemType: 'pants'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_57.jpg'
+    // itemType: 'pants'
   },
 
   // JACKETS
   {
     id: 58,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_58.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_58.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 59,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_59.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_59.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 60,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_60.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_60.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 61,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_61.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_61.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 62,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_62.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_62.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 63,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_63.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_63.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 64,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_64.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_64.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 65,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_65.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_65.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 66,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_66.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_66.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 67,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_67.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_67.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 68,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_68.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_68.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 69,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_69.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_69.jpg'
+    // itemType: 'jackets'
   },
   {
     id: 70,
     name: 'The North Face Venture 2 Hooded Jacket - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_70.jpg',
-    itemType: 'jackets'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_70.jpg'
+    // itemType: 'jackets'
   },
 
   // SHIRTS
   {
     id: 71,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_71.jpg',
-    itemType: 'shirts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_71.jpg'
+    // itemType: 'shirts'
   },
   {
     id: 72,
     name: 'The North Face Half Dome T-Shirt - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_72.jpg',
-    itemType: 'shirts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_72.jpg'
+    // itemType: 'shirts'
   },
 
   // VESTS
   {
     id: 73,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_73.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_73.jpg'
+    // itemType: 'vests'
   },
   {
     id: 74,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_74.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_74.jpg'
+    // itemType: 'vests'
   },
   {
     id: 75,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_75.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_75.jpg'
+    // itemType: 'vests'
   },
   {
     id: 76,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_76.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_76.jpg'
+    // itemType: 'vests'
   },
   {
     id: 77,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_77.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_77.jpg'
+    // itemType: 'vests'
   },
   {
     id: 78,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_78.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_78.jpg'
+    // itemType: 'vests'
   },
   {
     id: 79,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_79.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_79.jpg'
+    // itemType: 'vests'
   },
   {
     id: 80,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_80.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_80.jpg'
+    // itemType: 'vests'
   },
   {
     id: 81,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_81.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_81.jpg'
+    // itemType: 'vests'
   },
   {
     id: 82,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_82.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_82.jpg'
+    // itemType: 'vests'
   },
   {
     id: 83,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_83.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_83.jpg'
+    // itemType: 'vests'
   },
   {
     id: 84,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_84.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_84.jpg'
+    // itemType: 'vests'
   },
   {
     id: 85,
     name: 'Patagonia Better Sweater Fleece Vest - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_85.jpg',
-    itemType: 'vests'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_85.jpg'
+    // itemType: 'vests'
   },
 
   // SHOES
   {
     id: 86,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_86.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_86.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 87,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_87.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_87.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 88,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_88.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_88.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 89,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_89.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_89.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 90,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_90.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_90.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 91,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_91.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_91.jpg'
+    // itemType: 'shoes'
   },
   {
     id: 92,
     name: 'Nike Air Zoom Pegasus 35 Running Shoe - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_92.jpg',
-    itemType: 'shoes'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_92.jpg'
+    // itemType: 'shoes'
   },
 
   // SANDALS
   {
     id: 93,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_93.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_93.jpg'
+    // itemType: 'sandals'
   },
   {
     id: 94,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_94.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_94.jpg'
+    // itemType: 'sandals'
   },
   {
     id: 95,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_95.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_95.jpg'
+    // itemType: 'sandals'
   },
   {
     id: 96,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_96.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_96.jpg'
+    // itemType: 'sandals'
   },
   {
     id: 97,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_97.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_97.jpg'
+    // itemType: 'sandals'
   },
   {
     id: 98,
     name: 'Birkenstock Mayari Sandal - Women\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_98.jpg',
-    itemType: 'sandals'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_98.jpg'
+    // itemType: 'sandals'
   },
 
   // SHORTS
   {
     id: 99,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_99.jpg',
-    itemType: 'shorts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_99.jpg'
+    // itemType: 'shorts'
   },
   {
     id: 100,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_100.jpg',
-    itemType: 'shorts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_100.jpg'
+    // itemType: 'shorts'
   },
   {
     id: 101,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_101.jpg',
-    itemType: 'shorts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_101.jpg'
+    // itemType: 'shorts'
   },
   {
     id: 102,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_102.jpg',
-    itemType: 'shorts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_102.jpg'
+    // itemType: 'shorts'
   },
   {
     id: 103,
     name: 'Prana Stretch Zion Short - Men\'s',
-    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_103.jpg',
-    itemType: 'shorts'
+    imageURL: 'https://backcountry-items.s3-us-west-1.amazonaws.com/detailed_103.jpg'
+    // itemType: 'shorts'
   }
 
 ];
