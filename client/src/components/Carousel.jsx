@@ -10,8 +10,13 @@ class Carousel extends React.Component {
 
   render() {
     return (
-      <div>
-        hi
+      <div className="carousel">
+        <div className="current-color">Current Color</div>
+        {this.props.items.map( (item, key) => {
+          return (
+            <img key={key} className="carousel-image" src={item.imageURL}/>
+          )
+        })}
       </div>
     )
   }

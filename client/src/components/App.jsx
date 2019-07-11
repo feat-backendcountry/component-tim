@@ -34,7 +34,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log('yo',this.state.items);
     if (this.state.items.length === 0) {
       return (
         <div>
@@ -47,17 +46,18 @@ class App extends React.Component {
           <div className="back-to-results">
             Back to results / Men's clothing > Men's Pants > Men's Hiking & Climbing Pants
           </div>
-          <div className="detail-images-section">
-            <DetailImages items={this.state.items} />
-          </div>
-          <div className="main-item-section">
-            <MainItem mainImage={this.state.items[0].imageURL} />
-          </div>
-          <div className="info-area-section">
-            <InfoArea items={this.state.items} />
-          </div>
-          <div className="carousel-section">
-            <Carousel items={this.state.items} />
+
+          <div className="product-display">
+            {/* detail images + main item section */}
+            <section className="detail-main-section">
+              <DetailImages items={this.state.items} />
+              <MainItem items={this.state.items} />
+            </section>
+
+            {/* info area section */}
+            <section className="info-area-section">
+              <InfoArea items={this.state.items} />
+            </section>
           </div>
 
         </div>
