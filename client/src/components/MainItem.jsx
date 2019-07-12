@@ -13,7 +13,7 @@ class MainItem extends React.Component {
     return (
       <div className="main-carousel">
         <div className="main-item">
-          <img className="main-item-photo" src={this.props.items[0].imageURL} alt="Main Image Rendering"/>
+          <img className="main-item-photo" src={this.props.items[0].imageURL} alt="Main Image Rendering" />
         </div>
 
         <Carousel items={this.props.items}/>
