@@ -35,36 +35,42 @@ class InfoArea extends React.Component {
             <strong className="size-select">Select a Size:</strong>
             <span className="size-chart">Size Chart</span>
           </div>
-
           <div className="size-selection">
-            {/* add on change event handler */}
-            {/* <select className="size-options">
-              {this.props.items[0].sizes.map( (size, key) => {
-                return <option key={key}>{size}</option>
-              })}
-            </select> */}
-            <a className="size-options">
+            <a className="select-options">
               Select Options
             </a>
-            <ul>
+            <div className="size-dropdown">
+              <ul className="size-dropdown-options">
+                {this.props.items[0].sizes.map( (size, key) => {
+                  return <li className={`size-option${key}`} key={key}>{size}</li>
+                })}
+              </ul>
+            </div>
+          </div>
 
-            </ul>
-
-
+          <div className="color-select">
+            <strong>Select a Color:</strong>
           </div>
           <div className="color-selection">
-            {/* add on change event handler */}
-            <select className="color-options">
-              {this.props.items.map( (item, key) => {
-                return <option key={key}>{item.color}</option>
-              })}
-            </select>
+            <a className="select-options">
+              Select Options
+            </a>
+
+            <div className="color-dropdown">
+              <ul className="color-dropdown-options">
+                {this.props.items.map( (item, key) => {
+                  return <li className={`color-option${key}`} key={key}>{item.color}</li>
+                })}
+              </ul>
+            </div>
           </div>
         </div>
 
         <div className="quantity">
           <strong>Quantity</strong>
-          <input type="number"></input>
+          <div className="quantity-box">
+            <input type="number"></input>
+          </div>
         </div>
 
         <div className="cart-wish">
